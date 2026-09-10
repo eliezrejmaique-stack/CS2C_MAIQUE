@@ -47,8 +47,3 @@ random.choice(self.LOOT_POOL)
 
 8. ITERATION (for ... in)
 for item in self.inventory:
-
-SCREENSHOTS: 
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
